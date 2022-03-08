@@ -1,0 +1,59 @@
+html{
+    font-size: 16px;
+}
+
+body {
+    background-color: #F5D9D5;
+    max-width: 100%;
+}
+
+a {
+    color: white;
+}
+
+h2, span, #candy, nav a:hover {
+    color: #EB2837;
+    text-decoration: none;
+}
+
+nav a,
+#candy {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+div img {
+    max-width: 100%;
+    height: auto;
+}
+
+div.row {
+    height:auto;
+    width: 100vw;
+    margin-bottom: 100px;
+}
+
+h2 {
+    font-size: 2.2rem;
+}
+
+div.sub-text p{
+    font-size: 1.25rem;
+    color: #F4AFBD;
+}
+
+div.hero-text p {
+    letter-spacing: 0.25rem;
+    line-height: 1.1;
+    font-size: 3.3rem;
+}
+
+nav {
+    transition: all 0.5s linear;
+    padding-left: 10px;
+}
+
+.scrolled{
+    background-color: #E5BDD6;
+    transition: all 0.5s linear;
+}
